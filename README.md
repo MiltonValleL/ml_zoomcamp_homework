@@ -58,4 +58,4 @@ I document my learning publicly on my YouTube channel
 tutorials in Spanish).
 
 - 🔗 GitHub: [MiltonValleL](https://github.com/MiltonValleL)
-- 🔗 LinkedIn: [milton-valle](https://linkedin.com/in/milton-valle)
+- 🔗 LinkedIn: [milton-valle](https://www.linkedin.com/in/miltonvallelora/)
