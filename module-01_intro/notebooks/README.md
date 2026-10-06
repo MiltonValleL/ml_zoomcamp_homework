@@ -1,1 +1,1 @@
-# Personal Notebooks of Module 1: Introduction
+# Module 1: Introduction (Notebooks)
